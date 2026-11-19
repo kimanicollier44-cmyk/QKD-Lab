@@ -1,4 +1,4 @@
-![QKD-Lab cover](assets/cover.png)
+![QKD-Lab cover](QKD-Lab%20cover.png)
 
 # QKD-Lab 🔐⚛️
 
